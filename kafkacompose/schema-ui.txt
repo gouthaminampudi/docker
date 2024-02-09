@@ -1,0 +1,1 @@
+docker run --rm -p 8000:8000 -e SCHEMAREGISTRY_URL=localhost:8085 landoop/schema-registry-ui
